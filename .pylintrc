@@ -1,0 +1,12 @@
+
+[MESSAGES CONTROL]
+disable=missing-module-docstring
+
+[FORMAT]
+max-line-length=100
+
+[BASIC]
+good-names=app,ex
+
+[DESIGN]
+max-args=6

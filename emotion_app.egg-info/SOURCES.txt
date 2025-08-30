@@ -1,0 +1,10 @@
+README.md
+setup.py
+emotion_app/__init__.py
+emotion_app/emotion_detector.py
+emotion_app.egg-info/PKG-INFO
+emotion_app.egg-info/SOURCES.txt
+emotion_app.egg-info/dependency_links.txt
+emotion_app.egg-info/top_level.txt
+tests/test_emotion_detector.py
+tests/test_server.py

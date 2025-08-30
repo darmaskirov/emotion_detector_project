@@ -1,0 +1,7 @@
+
+flask>=3.0.0
+pytest>=8.0.0
+pylint>=3.0.0
+# Optional for real Watson calls:
+# ibm-watson
+# ibm-cloud-sdk-core
